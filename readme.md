@@ -17,7 +17,11 @@
 
 - 以下是需要处理的验证码图片（width：200 px，height：50 px）
 
-  ![0_mh3I](image\0_mh3I.jpg)![2_Llw7](image\2_Llw7.jpg)![0_mh3I](image\\0_mh3I.jpg)
+  <img src="image\0_mh3I.jpg" alt="0_mh3I" />
+
+  <img src="image\2_Llw7.jpg" alt="2_Llw7" />
+  
+  <img src="image\0_mh3I.jpg" alt="0_mh3I" />
 
 - 字符集：阿拉伯数字、大小写字母（区分大小写）
 
